@@ -1,0 +1,72 @@
+.emprego {
+    margin: 0 27rem;
+}
+
+.emprego__vagas {
+    border: 1px solid #EAECF0;
+    border-radius: 16px;
+    margin: 1.5em 0;
+    padding: 2em 1em;
+    display: flex;
+    flex-direction: column;
+}
+
+.emprego__titulo {
+    font-size: 20px;
+    font-weight: 500;
+    padding: 2em 0 1em 0;
+}
+
+.emprego__profissão {
+    font-size: 18px;
+    font-weight: 500;
+    padding: 0 0 2em 0;
+}
+
+.emprego__texto {
+    font-weight: 500;
+    color: var(--cinza);
+    padding: 0 1em 0 0;
+}
+
+/* Seção colaboradores*/ 
+.colaboradores {
+    text-align: center;
+    margin: 96px;
+    padding: 64px;
+}
+
+.colaboradores .container {
+    background: rgba(196, 25, 25, 0.03);
+    padding: 4rem 4rem;
+}
+
+.colaboradores__texto {
+    color: var(--vermelho);
+    font-weight: 600;   
+}
+
+.colaboradores__titulo {
+    font-size: 36px;
+    font-weight: 500;
+    padding: 0.5em 0.5em 1em 0.5em; 
+}
+
+.colaboradora {
+    font-weight: 500;
+    padding: 1em 0 0.5em 0 ;
+}
+
+.colaboradora__profissão {
+    color: var(--cinza);
+}
+
+.colaboradora__imagem {
+    width: 50px;
+}
+
+.colaboradoras__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

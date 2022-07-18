@@ -1,0 +1,49 @@
+.sobrenos {
+    padding: 96px;
+    text-align: center;
+}
+
+.sobrenos__intro {
+    color: var(--vermelho);
+    font-weight: 600;
+}
+
+.sobrenos__titulo {
+    font-size: 48px;
+    font-weight: 600;
+    padding: 0.5em;
+}
+
+.sobrenos__texto {
+    color: var(--cinza);
+    padding: 0 33rem;
+    line-height: 1.5rem;
+}
+
+/* LISTA */
+.container__lista {
+    display: flex;
+    justify-content: center;
+    padding: 5rem 10rem;
+}
+
+.lista {
+    padding: 0 0 0 8em;
+}
+
+.lista__titulo {
+    font-size: 60px;
+    color: var(--vermelho);
+    font-weight: 600;
+    padding-bottom: 0.3em;
+}
+
+.lista__titulo-principal {
+    font-size: 18px;
+    font-weight: 500;
+    padding-bottom: 0.5em;
+}
+
+.lista__texto {
+    color: var(--cinza);
+}

@@ -1,0 +1,42 @@
+.cabeçalho {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0.5rem 1rem;
+}
+
+.cabeçalho__nav {
+    margin-right: 50em;
+}
+
+.cabeçalho__link {
+    color: var(--cinza);
+    font-weight: 500;
+    text-decoration: none;
+    padding: 0 1em;
+}
+
+.cabeçalho__botão {
+    background: none;
+    border: none;
+    padding: 1em;
+}
+
+.cabeçalho__entrar {
+    color: var(--cinza);
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.cabeçalho__botão-cadastrar {
+    padding: 0.5em;
+    border: 1px solid var(--vermelho);
+    border-radius: 8px;
+    background-color: var(--vermelho);
+}
+
+.cabeçalho__cadastrar {
+    color: var(--cor-de-fundo);
+    text-decoration: none;
+    font-weight: 500;
+}
