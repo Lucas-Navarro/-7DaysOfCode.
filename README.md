@@ -5,7 +5,7 @@
 Site feito rapidamente e bem simples // (sem responsividade no momento)
 ```
 <span>Fontes:</span>
-```
+```html
 Inter:
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
